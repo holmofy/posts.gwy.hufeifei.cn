@@ -16,6 +16,7 @@
     "hexo-deployer-git": "^3.0.0",
     "hexo-filter-mathjax": "^0.7.1",
     "hexo-filter-nofollow": "github:holmofy/hexo-filter-nofollow#add-glob-support",
+    "hexo-filter-plantuml": "github:holmofy/hexo-filter-plantuml#add-element-class",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-feed": "^3.0.0",
