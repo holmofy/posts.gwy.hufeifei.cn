@@ -2,7 +2,6 @@
 title: 考公计划--行测
 date: 2021-12-23
 categories: 公务员
-- 算法
 keywords: 公考,考试
 ---
 
