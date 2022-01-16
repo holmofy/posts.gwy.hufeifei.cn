@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 站在巨人的肩膀上
-subtitle: '技术文章精选'
-description: '各大平台上精选优质文章进行汇总'
-keywords: 程序员,技术,精选,博客
+title: 公考加油站
+subtitle: '为上岸而战'
+description: '记录个人备考心得'
+keywords: 程序员,公务员,考公,博客
 author: Holmofy
 language: zh-cn
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://posts.hufeifei.cn
+url: http://posts.gwy.hufeifei.cn
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -129,7 +129,7 @@ plugins:
 ## 这里使用git部署网站
 deploy:
   type: git
-  repo: git@posts.hufeifei.cn:repo/posts.hufeifei.cn.git
+  repo: git@posts.gwy.hufeifei.cn:repo/posts.gwy.hufeifei.cn.git
   branch: master
   message: "hexo deployment: {{ now('YYYY-MM-DD HH:mm:ss') }}"
 
